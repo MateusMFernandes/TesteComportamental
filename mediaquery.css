@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@media screen and (max-width: 768px) {
+    #quiz-container {
+        max-width: 320px;
+        
+        }
+    body {
+        padding-top: 15%;
+    }
+}
